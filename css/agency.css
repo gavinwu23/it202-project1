@@ -187,7 +187,7 @@ header.masthead .intro-text {
 
 
 header.masthead .carousel-item {
-  height: 65vh;
+  height: 70vh;
   max-width: 100%;
   width: 100%;
   min-height: 300px;
@@ -198,6 +198,12 @@ text-align: center;
   -o-background-size: cover;
   background-size: cover;
 }
+
+/* .carousel-caption {
+    transform: translateY(-50%);
+  bottom: 0;
+  top: 50%;
+} */
 
 /* header.masthead .intro-text .intro-lead-in {
   font-size: 22px;

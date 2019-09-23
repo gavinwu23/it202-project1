@@ -199,11 +199,25 @@ text-align: center;
   background-size: cover;
 }
 
-/* .carousel-caption {
+/* .carousel-caption1 {
 transform: translateY(-50%);
   bottom: 0;
   top: 50%;
 } */
+
+header.masthead .carousel-caption1 {
+    height: 70vh;
+    max-width: 100%;
+    width: 100%;
+    min-height: 300px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+   text-align: center;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+}
 
 /* header.masthead .intro-text .intro-lead-in {
   font-size: 22px;
